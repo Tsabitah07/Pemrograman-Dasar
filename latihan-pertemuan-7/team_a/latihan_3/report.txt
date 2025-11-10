@@ -1,0 +1,4 @@
+Total lines: 4
+Filtered Comment (Bagus / Mantap) : 3
+Count of "Bagus": 2
+Count of "Mantap": 1

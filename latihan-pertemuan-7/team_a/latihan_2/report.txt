@@ -1,0 +1,5 @@
+Laporan Analisis tech_news.txt
+===============================
+Total lines: 4
+Count of "AI": 2
+Count of "robot": 2

@@ -1,0 +1,3 @@
+Total Lines : 4 
+Count of "Gol" : 1 
+Count of "Menang" : 2 

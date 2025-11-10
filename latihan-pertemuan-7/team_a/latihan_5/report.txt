@@ -1,0 +1,4 @@
+SALES REPORT SUMMARY
+====================
+Total branches : 3
+Top branch: B (280000)

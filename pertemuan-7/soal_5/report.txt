@@ -1,0 +1,4 @@
+PROJECT REPORT SUMMARY 
+======================= 
+Total department : 3 
+Top Department : IT (380000) 

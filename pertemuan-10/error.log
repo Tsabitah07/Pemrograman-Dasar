@@ -1,0 +1,36 @@
+[2025-11-04 15:46:36] ZeroDivisionError: float division by zero
+[2025-11-04 15:46:36] ValueError: cannot take sqrt of negative number
+[2025-11-04 15:46:36] ValueError: invalid literal for int() with base 10: 'abc'
+[2025-11-04 15:46:36] ValueError: could not convert string to float: 'not-a-num'
+2025-11-04 15:58:56 | division_by_zero | ZeroDivisionError | division by zero
+2025-11-04 15:58:56 | sqrt_negative | ValueError | math domain error
+2025-11-04 15:58:56 | bad_conversion | ValueError | invalid literal for int() with base 10: 'abc'
+2025-11-04 16:01:25 | division_by_zero | ZeroDivisionError | division by zero
+2025-11-04 16:01:25 | sqrt_negative | ValueError | math domain error
+2025-11-04 16:01:25 | bad_conversion | ValueError | invalid literal for int() with base 10: 'abc'
+2025-11-04 16:02:12 | division_by_zero | ZeroDivisionError | division by zero
+2025-11-04 16:02:12 | sqrt_negative | ValueError | math domain error
+2025-11-04 16:02:12 | bad_conversion | ValueError | invalid literal for int() with base 10: 'abc'
+2025-11-04 16:03:15 | division_by_zero | ZeroDivisionError | division by zero
+
+2025-11-04 16:03:15 | sqrt_negative | ValueError | math domain error
+
+2025-11-04 16:03:15 | bad_conversion | ValueError | invalid literal for int() with base 10: 'abc'
+
+
+2025-11-04 16:03:24 | division_by_zero | ZeroDivisionError | division by zero
+
+2025-11-04 16:03:24 | sqrt_negative | ValueError | math domain error
+
+2025-11-04 16:03:24 | bad_conversion | ValueError | invalid literal for int() with base 10: 'abc'
+2025-11-04 16:03:43 | division_by_zero | ZeroDivisionError | division by zero
+2025-11-04 16:03:43 | sqrt_negative | ValueError | math domain error
+2025-11-04 16:03:43 | bad_conversion | ValueError | invalid literal for int() with base 10: 'abc'
+[2025-11-04 16:05:01] ZeroDivisionError: float division by zero
+[2025-11-04 16:05:01] ValueError: cannot take sqrt of negative number
+[2025-11-04 16:05:01] ValueError: invalid literal for int() with base 10: 'abc'
+[2025-11-04 16:05:01] ValueError: could not convert string to float: 'not-a-num'
+[2025-11-04 16:05:55] ZeroDivisionError: float division by zero
+[2025-11-04 16:05:55] ValueError: cannot take sqrt of negative number
+[2025-11-04 16:05:55] ValueError: invalid literal for int() with base 10: 'abc'
+[2025-11-04 16:05:55] ValueError: could not convert string to float: 'not-a-num'

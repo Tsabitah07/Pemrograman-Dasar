@@ -1,0 +1,6 @@
+STORE PERFORMANCE REPORT
+==
+Total branches: 2
+Total sales: 82000
+Average sales: 13666.67
+Top branch: B (44000)
